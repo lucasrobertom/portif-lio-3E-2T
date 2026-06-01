@@ -1,0 +1,2 @@
+# portif-lio-3E-2T
+projeto desenvolvido no Colégio Estadual Gastão Vidigal, na turma do 3E, com o objetivo de explicar a usabilidade de cada código do HTML, CSS , JS .
